@@ -1,0 +1,27 @@
+{
+    "id": "todo-list",
+    "title": "Todo list - An Example FVTT Module",
+    "description": "Learning how to build modules, this will be a player-specific to-do list",
+    "authors": [
+      {
+      "name": "Brandon Toms"
+      }
+    ],
+    "scripts": [
+        "scripts/todo-list.js"
+    ],
+    "styles": [
+        "styles/todo-list.css"
+    ],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10"
+    }
+}
